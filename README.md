@@ -1,5 +1,5 @@
 # PreppIn
-![ic_launcher](https://user-images.githubusercontent.com/55840753/98366526-23850e00-205a-11eb-9f3e-de86e70a6f36.png)
+![ic_launcher](https://raw.githubusercontent.com/UTKARSH17102000/PreppIn/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)
   
   A Minimalistic Recipes Management App written in Kotlin
   
