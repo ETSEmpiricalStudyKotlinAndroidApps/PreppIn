@@ -3,7 +3,7 @@ package com.example.foodapplication.util
 class Constants {
 
     companion object {
-        const val API_KEY = "71891f793d1f484c83aa936a0e02e4cd"
+        const val API_KEY = "********************************"
         const val BASE_URL = "https://api.spoonacular.com"
         const val BASE_IMAGE_URL ="https://spoonacular.com/cdn/ingredients_100x100/"
 
