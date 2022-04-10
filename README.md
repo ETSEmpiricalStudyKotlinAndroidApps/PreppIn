@@ -14,9 +14,9 @@
    * Click on clone.
 
 # ScreenShots
-![ic_launcher](https://github.com/UTKARSH17102000/PreppIn/blob/master/app/src/main/res/drawable-hdpi/preppin_splash_screen.png)
-![ic_launcher](https://github.com/UTKARSH17102000/PreppIn/blob/master/app/src/main/res/drawable/preppinss2.jpeg | width=100)
-![ic_launcher](https://github.com/UTKARSH17102000/PreppIn/blob/master/app/src/main/res/drawable/preppinss3.jpeg | width=100)
-![ic_launcher](https://github.com/UTKARSH17102000/PreppIn/blob/master/app/src/main/res/drawable/preppinss4.jpeg | width=100)
-![ic_launcher](https://github.com/UTKARSH17102000/PreppIn/blob/master/app/src/main/res/drawable/preppinss5.jpeg | width=100)
-![ic_launcher](https://github.com/UTKARSH17102000/PreppIn/blob/master/app/src/main/res/drawable/preppinss6.jpeg | width=100)
+<img src="https://github.com/UTKARSH17102000/PreppIn/blob/master/app/src/main/res/drawable-hdpi/preppin_splash_screen.png" width="200" height="400">
+<img src="https://github.com/UTKARSH17102000/PreppIn/blob/master/app/src/main/res/drawable/preppinss2.jpeg" width="200" height="400">
+<img src="https://github.com/UTKARSH17102000/PreppIn/blob/master/app/src/main/res/drawable/preppinss3.jpeg" width="200" height="400">
+<img src="https://github.com/UTKARSH17102000/PreppIn/blob/master/app/src/main/res/drawable/preppinss4.jpeg" width="200" height="400">
+<img src="https://github.com/UTKARSH17102000/PreppIn/blob/master/app/src/main/res/drawable/preppinss5.jpeg" width="200" height="400">
+<img src="https://github.com/UTKARSH17102000/PreppIn/blob/master/app/src/main/res/drawable/preppinss6.jpeg" width="200" height="400">
