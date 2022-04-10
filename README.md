@@ -12,3 +12,6 @@
    * Choose git / github (git option recommanded )
    * Paste url to repository
    * Click on clone.
+
+# ScreenShots
+![ic_launcher](https://github.com/UTKARSH17102000/PreppIn/blob/master/app/src/main/res/drawable-hdpi/preppin_splash_screen.png)
