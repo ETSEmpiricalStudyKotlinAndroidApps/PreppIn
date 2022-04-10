@@ -1,7 +1,8 @@
 # PreppIn
 ![ic_launcher](https://raw.githubusercontent.com/UTKARSH17102000/PreppIn/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)
   
-  A Recipes Management App written in Kotlin
+  A full-fledged Android application that’s a one-stop store, where we can browse recipes from various different kinds of meal and diet types.
+
   
   Kotlin, Room Database, Retrofit, Dependency Injection,Dagger Hilt, API.
 
